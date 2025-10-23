@@ -16,10 +16,15 @@ I enjoy exploring new database tools, building backend systems, and integrating 
 
 ## 🧩 Tech Stack  
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|----------|--------------|---------------------|
-| **Data** | MySQL | MySQL | Elasticsearch |
-| **Programming** | Python, HTML, JavaScript | C, Java, JavaScript, HTML, CSS | Node.js, Dart |
+**🗄️ Data**  
+- Primary: MySQL  
+- Comfortable: MySQL  
+- Exploring: Elasticsearch  
+
+**💻 Programming**  
+- Primary: Python, HTML, JavaScript  
+- Comfortable: C, Java, CSS  
+- Exploring: Node.js, Dart  
 
 ---
 
