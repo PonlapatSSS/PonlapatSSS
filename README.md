@@ -47,7 +47,7 @@ A full-stack web application that allows users to design and customize clothing.
 
 ---
 
-### 🎬 2. [Movie Sentiment Analysis with Process Swapping Simulation]([https://github.com/PonlapatSSS/OS_projectr-Antony2008](https://github.com/PonlapatSSS/OS_projerct-Antony2008))  
+### 🎬 2. [Movie Sentiment Analysis with Process Swapping Simulation](https://github.com/PonlapatSSS/OS_projerct-Antony2008)  
 A machine learning project that analyzes movie reviews and predicts sentiment.  
 - **Tech Used:** Python, scikit-learn, Logistic Regression  
 - **Accuracy:** 87.5%  
