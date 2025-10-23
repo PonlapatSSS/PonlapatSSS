@@ -5,8 +5,8 @@
 ---
 
 ## 🧠 About Me  
-My name is Ponlapat Subsaenudom, and I am passionate about data engineering, creating efficient systems for storing, processing, and analyzing data.\n
-I enjoy exploring new database tools, building backend systems, and integrating data pipelines with modern technologies.\n
+My name is Ponlapat Subsaenudom, and I am passionate about data engineering, creating efficient systems for storing, processing, and analyzing data.  
+I enjoy exploring new database tools, building backend systems, and integrating data pipelines with modern technologies.  
 I am fluent in both **Thai** and **English**.
 
 📍 **This year’s goal:** Explore more database technologies and gain real-world experience in the **database field**.  
