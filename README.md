@@ -40,7 +40,7 @@ I am fluent in both **Thai** and **English**.
 
 ## 🚀 University Projects  
 
-### 🧵 1. [Clothing Design & Customization Website](https://github.com/MUICT-Class/672-projectphase2-sec2_group10)  
+### 🧵 1. [Clothing Design & Customization Website](https://github.com/PonlapatSSS/Clothing-Design-and-Customization-Website)  
 A full-stack web application that allows users to design and customize clothing.  
 - **Role:** Front-End, Back-End, and SQL Query Developer  
 - **Tech Used:** HTML, CSS, JavaScript, Node.js, Express, SQL  
@@ -48,7 +48,7 @@ A full-stack web application that allows users to design and customize clothing.
 
 ---
 
-### 🎬 2. [Movie Sentiment Analysis with Process Swapping Simulation](https://github.com/PonlapatSSS/OS_projerct-Antony2008)  
+### 🎬 2. [Movie Sentiment Analysis with Process Swapping Simulation](https://github.com/PonlapatSSS/Movie-Sentiment-Analysis)  
 A machine learning project that analyzes movie reviews and predicts sentiment.  
 - **Tech Used:** Python, scikit-learn, Logistic Regression  
 - **Accuracy:** 87.5%  
