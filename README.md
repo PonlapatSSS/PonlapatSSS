@@ -30,9 +30,9 @@ I am fluent in both **Thai** and **English**.
 ---
 
 ## 💻 Tools & Technologies  
-- **Databases:** MySQL, Elasticsearch *(learning)*  
-- **Languages:** Python, JavaScript, Dart, C, Java  
-- **Web Development:** HTML, CSS, Node.js, Express  
+- **Databases:** MySQL, PostgreSQL, Elasticsearch *(learning)*  
+- **Languages:** Python, JavaScript, Dart, C, Java, TypeScript
+- **Web Development:** HTML, CSS, Node.js, Express, Flask, FastAPI, Next.js
 - **Libraries/Frameworks:** Express.js  
 - **Others:** Git, REST APIs  
 
