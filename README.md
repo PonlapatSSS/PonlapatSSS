@@ -44,14 +44,20 @@ I am fluent in both **Thai** and **English**.
 A full-stack web application that allows users to design and customize clothing.  
 - **Role:** Front-End, Back-End, and SQL Query Developer  
 - **Tech Used:** HTML, CSS, JavaScript, Node.js, Express, SQL  
-- Designed UI, Developed backend server, and Wrote database queries.
+- Designed UI, Developed backend server, and wrote database queries.
 
 ---
 
 ### 🎬 2. [Movie Sentiment Analysis with Process Swapping Simulation](https://github.com/PonlapatSSS/Movie-Sentiment-Analysis)  
 A machine learning project that analyzes movie reviews and predicts sentiment.  
 - **Tech Used:** Python, scikit-learn, Logistic Regression  
-- **Accuracy:** 87.5%  
+- **Accuracy:** 87.5%
+
+### 💲 3. [Financial Management System](https://github.com/saahil-bh/financial-management-system)  
+A full-stack financial management system that allows users to create quotations, invoices, and receipts, which are sent notifications via line and email after the admin approves.
+- **Role:** Back-End and Database Developer
+- **Tech Used:** TypeScript, Next.js, Python(FastAPI), PostgreSQL, Supabase, JWT
+- Develop a back-end server, connect the server to Supabase, and fetch the client-server API.
 
 ---
 
